@@ -1,32 +1,45 @@
-🧑‍💻 Melandry Marchand
-Développeur Full Stack | Passionné par les applications modernes, les microservices et le clean code
+# 👋 Melandry Marchand
 
-👋 Bienvenue sur mon GitHub !
-Je suis actuellement en alternance chez Blookod en tant que Développeur Full Stack, où je travaille sur des projets réels tels que COMBOS (gestion d'équipe, microservices, CI/CD) et une application pour LVMH.
-🔧 Stack technique principale
+### Développeur Full Stack | Alternance chez Blookod | Passionné par les architectures modernes, microservices et CI/CD
 
-    Front-end : React, React Native, Tailwind CSS
+Bienvenue sur mon profil GitHub !  
+Je suis actuellement en alternance chez **Blookod**, où je participe au développement de projets réels et complexes, avec un focus sur la qualité du code, l’architecture logicielle et la collaboration en équipe.
 
-    Back-end : Node.js, Express.js, WebSockets, Microservices
+---
 
-    Base de données : MongoDB, PostgreSQL avec Prisma
+## 🚀 Expérience actuelle
 
-    Tests & CI/CD : Jest, Supertest, Postman, GitHub Actions / Azure DevOps
+**Développeur Full Stack – Blookod** (Paris, depuis 2023)  
+- Gestion de projet en équipe via **Azure DevOps** et **Notion**  
+- Relecture de code, gestion des pull requests et merges  
+- Développement en **microservices** avec **Node.js**, **MongoDB**, **WebSockets**  
+- Mise en place de **CI/CD** pour les tests d'API  
+- Réalisation d’une application web pour **LVMH** ("Life in Store")
 
-📌 Projets en avant :
+---
 
-    🌐 Resume Builder – Générateur de CV PDF simple et efficace.
+## 🛠️ Compétences techniques
 
-    [☁️ COMBOS (privé)] – Application collaborative avec gestion de projet via Azure DevOps.
+### Langages & Frameworks
+`TypeScript` · `React` · `React Native` · `Node.js` · `Express.js`
 
-    [📊 Statistiques API] – Architecture modulaire, tests Jest, CI/CD, microservices.
+### Back-end & Base de données
+`MongoDB` · `PostgreSQL` · `Prisma ORM` · `Microservices` · `WebSockets`
 
-📫 Me contacter
+### CI/CD & Tests
+`Jest` · `Supertest` · `Postman` · `GitHub Actions` · `Azure DevOps`
 
-    Email : melandry27@gmail.com
+### Outils & Méthodologies
+`Git` · `VSCode` · `Notion` · `Méthode Agile` · `Code Review` · `Pull Request`
 
-    LinkedIn : melandry-marchand27
+---
 
-✨ Objectif actuel
+## 📫 Me contacter
 
-    Continuer à monter en compétence sur les architectures scalables, la gestion de projet Agile et les bonnes pratiques DevOps.
+- **Email** : [melandry27@gmail.com](mailto:melandry27@gmail.com)  
+- **LinkedIn** : [linkedin.com/in/melandry-marchand27](https://www.linkedin.com/in/melandry-marchand27/)  
+- **GitHub** : [@Melandry27](https://github.com/Melandry27)
+
+---
+
+> 🎯 Actuellement en formation Bachelor CDA à CESI (2024–2025), je me spécialise dans le développement d’applications sécurisées, maintenables et bien architecturées.
